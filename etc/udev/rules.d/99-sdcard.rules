@@ -1,0 +1,1 @@
+ACTION=="add", KERNEL=="sdf*", RUN+="/usr/local/bin/mv_pics.sh"
